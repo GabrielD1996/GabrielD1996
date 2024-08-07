@@ -13,6 +13,9 @@
 
 [<img align="left" alt="Gabriel | LinkedIn" width="22px" src="assets/linkedin.png" />][linkedin]
 
+<br />
+<br />
+
 ### Acostumado a trabalhar com:
 
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="assets\vsCode.png" />
